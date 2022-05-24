@@ -3,4 +3,4 @@ $ echo « ~">.gitignore
 $ cat .gitignore
 $ git ajouter .
 $ git commit -m "~"
-git push
+$ git push
