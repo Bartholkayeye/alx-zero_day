@@ -1,0 +1,6 @@
+$cd alx-zero_day
+ $ git merge update-script
+$ git commit –m « Cool, toutes mes modifications feront maintenant partie de la branche principale, prêtes à être déployées! »
+$ git commit -m 'Cool, toutes mes modifications feront maintenant partie de la branche principale, prêtes à être déployées!'
+$ git add .
+$ git push
