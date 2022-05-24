@@ -1,4 +1,4 @@
-$ cd 0x01-git
+$ cd 0x03-git
 $ echo « ~">.gitignore
 $ cat .gitignore
 $ git ajouter .
