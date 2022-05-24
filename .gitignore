@@ -1,6 +1,0 @@
-$ cd 0x03-git
-$ echo ~">.gitignore
-$ cat .gitignore
-$ git add .
-$ git commit -m "~"
-$ git push
